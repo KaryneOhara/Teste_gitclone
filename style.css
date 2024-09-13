@@ -9,7 +9,14 @@ body, html {
     height: 100%;
 }
 
+body{
+    background-image: url('plano de fundo.jpg');
+}
 h1{
+    font-size: 60px;
+    color: deeppink;
+    margin-top: 1%;
+    margin-bottom: 2%;
     text-align: center;
 }
 img{
