@@ -20,6 +20,10 @@ h1{
     text-align: center;
 }
 img{
-    margin-left: 20%;
     height: 80%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
 }
